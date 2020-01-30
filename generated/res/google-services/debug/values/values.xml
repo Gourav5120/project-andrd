@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">85840201878-r9b0gbtb5p4nm4paebrqs8j2v0l2hjur.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gouravsproject.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">85840201878</string>
+    <string name="google_api_key" translatable="false">AIzaSyAU2T0IsxbfDDn-ybPIj2PiF_raveQ53a0</string>
+    <string name="google_app_id" translatable="false">1:85840201878:android:025f562421833915769ab7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAU2T0IsxbfDDn-ybPIj2PiF_raveQ53a0</string>
+    <string name="google_storage_bucket" translatable="false">gouravsproject.appspot.com</string>
+    <string name="project_id" translatable="false">gouravsproject</string>
+</resources>
